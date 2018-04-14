@@ -1,0 +1,24 @@
+.enviar{
+	background-color: #08298A;
+	border-radius: 8px;
+	padding: 8px 30px;
+	font-weight: bold;
+	color: white;
+	font-size: 15px;
+	border: 3px solid #08298A;
+}
+
+.caja{
+	border-radius: 4px;
+}
+
+body{
+	background: url(../imagenes/fondo1.png);
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-position: center;
+}
+
+.titulo{
+	color: #1F618D;
+}

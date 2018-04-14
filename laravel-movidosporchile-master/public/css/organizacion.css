@@ -1,0 +1,14 @@
+p{
+	text-align: center;
+}
+
+body{
+	background: url(../imagenes/fondo1.png);
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-position: center;
+}
+
+.titulo{
+	color: #1F618D;
+}
