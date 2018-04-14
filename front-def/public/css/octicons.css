@@ -1,0 +1,10 @@
+.octicon {
+  display: inline-block;
+  vertical-align: middle;
+  fill: currentColor;
+  padding-bottom: 4px;
+}
+
+.octicon.btn {
+	padding: .0rem .215rem;
+}

@@ -1,0 +1,31 @@
+body{
+	background: url(../imagenes/fondo1.png);
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-position: center;
+}
+
+thead{
+	background: #B2BABB  ;
+	text-align: center;
+}
+
+.titulo{
+	color: #1F618D;
+}
+
+.subtitulo{
+	color: #2E86C1;
+}
+
+
+.registrado{
+	font-weight: bold;
+	color: #515A5A;
+    text-align: center;
+    border-radius: 5px;
+    width: 50%;
+    background-color: #AED6F1;
+    position: relative;
+    left: 250px;
+}
